@@ -1,0 +1,15 @@
+
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de configuración de entorno
+.venv
+.idea
+best_huber_yolov11_nano.pt
