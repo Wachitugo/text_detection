@@ -1,6 +1,4 @@
-# README
-
-## Orientation Detection and Number Recognition in Images
+# Orientation Detection and Number Recognition in Images
 
 This Python script processes a folder of images to detect and extract numerical information from the top portion of each image. The primary functionality includes detecting if the image is upside down, rotating it if necessary, extracting the region of interest (ROI) for number detection, and using OCR (Optical Character Recognition) to read the detected numbers. 
 
